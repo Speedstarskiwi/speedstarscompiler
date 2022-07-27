@@ -10,4 +10,4 @@ compile in **release, x86** (usually takes about 30 seconds to compile).
 
 pipe name is 'speedstar' which can be **changed** in the main cpp file.
 
-powered by https://github.com/roblox/luau/
+thank you for the compiler -> https://github.com/roblox/luau/
